@@ -6,6 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrutha-ms8&label=Profile%20views&color=0e75b6&style=flat" alt="amrutha-ms8" /> </p>
 
 Tools:  Microsoft Excel, Power BI, Tableau, MySQL, Power Point
+
 Concepts: Statistics, Data visulizations, Data cleaning and manipulation
 <h3 align="left">Connect with me:</h3>
 <p align="left">
